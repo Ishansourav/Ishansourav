@@ -85,11 +85,14 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-	<a href="https://github.com/Ishansourav">
-		<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ishansourav&show_icons=true&bg_color=000325&text_color=ffffff&title_color=gold&border_color=ffd2ce&icon_color=e4626b" />
-		<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishansourav&bg_color=000325&text_color=ffffff&title_color=gold&border_color=ffd2ce&icon_color=e4626b&layout=compact&langs_count=8" />
-	</a>
+    <a href="https://github.com/Ishansourav">
+        <!-- GitHub Stats -->
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ishansourav&show_icons=true&bg_color=000325&text_color=ffffff&title_color=gold&border_color=ffd2ce&icon_color=e4626b" />
+        <!-- Top Languages -->
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishansourav&bg_color=000325&text_color=ffffff&title_color=gold&border_color=ffd2ce&icon_color=e4626b&layout=compact&langs_count=8" />
+    </a>
 </p>
+
 
 
 ---
