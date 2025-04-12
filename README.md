@@ -66,9 +66,11 @@
 ---
 
 ### 🚀 Featured Projects
-- **[CloudGit-box](https://github.com/Ishansourav/CloudGit-box)**  
-  A powerful cloud-based solution for seamless file version control and sharing. **License**: Apache 2.0
-
+- **[Gesture Virtual Mouse](https://github.com/Ishansourav/gesture-virtual-mouse)**  
+  A gesture-based mouse control system that allows users to control their computers through hand gestures.
+  Leveraging **AI**, **Python**, and **Machine Learning**, it transforms traditional mouse input to an interactive, intuitive experience.  
+  **License**: MIT
+  
 - **[Python Projects](https://github.com/Ishansourav/python_projects)**  
   Engaging Python projects designed for learning and internships, covering diverse topics from basic algorithms to advanced concepts. **Updated**: Nov 17, 2023
 
@@ -92,7 +94,6 @@
         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishansourav&bg_color=000325&text_color=ffffff&title_color=gold&border_color=ffd2ce&icon_color=e4626b&layout=compact&langs_count=8" />
     </a>
 </p>
-
 
 
 ---
