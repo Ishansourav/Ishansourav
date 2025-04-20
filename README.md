@@ -71,8 +71,10 @@
   Leveraging **AI**, **Python**, and **Machine Learning**, it transforms traditional mouse input to an interactive, intuitive experience.  
   **License**: MIT
   
-- **[Pokemon-colorscripts](https://gitlab.com/Ishansourav/pokemon-colorscripts)**  
-  Engaging Python projects designed for learning and covering diverse topics from basic algorithms to advanced concepts. **Updated**: Nov 17, 2023
+-  [Pokemon Colorscripts](https://gitlab.com/Ishansourav/pokemon-colorscripts)
+    A fun and nostalgic terminal animation project that displays colorful ASCII art of various Pokémon characters. Crafted using **Bash**, **Shell Scripting**, and **Terminal Color Codes**,
+   it brings the Pokémon universe to life right in your console.  
+    **License**: MIT
 
 - **[Web-Developing](https://github.com/Ishansourav/Web-Developing)**  
   Collection of HTML/CSS codes showcasing web design basics and frontend projects. **Updated**: Oct 30, 2023
