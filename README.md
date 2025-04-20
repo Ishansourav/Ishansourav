@@ -71,8 +71,8 @@
   Leveraging **AI**, **Python**, and **Machine Learning**, it transforms traditional mouse input to an interactive, intuitive experience.  
   **License**: MIT
   
-- **[Python Projects](https://github.com/Ishansourav/python_projects)**  
-  Engaging Python projects designed for learning and internships, covering diverse topics from basic algorithms to advanced concepts. **Updated**: Nov 17, 2023
+- **[Pokemon-colorscripts](https://gitlab.com/Ishansourav/pokemon-colorscripts)**  
+  Engaging Python projects designed for learning and covering diverse topics from basic algorithms to advanced concepts. **Updated**: Nov 17, 2023
 
 - **[Web-Developing](https://github.com/Ishansourav/Web-Developing)**  
   Collection of HTML/CSS codes showcasing web design basics and frontend projects. **Updated**: Oct 30, 2023
