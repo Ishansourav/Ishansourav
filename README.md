@@ -76,11 +76,11 @@
    it brings the Pokémon universe to life right in your console.  
     **License**: MIT
 
-- **[Web-Developing](https://github.com/Ishansourav/Web-Developing)**  
+- **[Documentation-starter-kit](https://github.com/Ishansourav/documentation-starter-kit)**  
   Collection of HTML/CSS codes showcasing web design basics and frontend projects. **Updated**: Oct 30, 2023
 
-- **[Machine Learning Projects](https://github.com/Ishansourav/Machine-Learning-)**  
-  Hands-on machine learning projects in Jupyter Notebook, covering supervised and unsupervised learning. **License**: GNU AGPL v3.0
+- **[simple-assessment-flask](https://github.com/Ishansourav/simple-assessment-flask)**  
+  A lightweight Flask-based web app that enables users to upload CSV or JSON files, process the data using Pandas, and generate a short report with computed Alpha, Beta, and Charlie values. **License**: GNU AGPL v3.0
 
 - **[Java Programs](https://github.com/Ishansourav/Java-Programs)**  
   A set of practical Java applications designed to highlight coding efficiency and performance. **License**: GNU GPL v3.0
