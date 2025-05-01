@@ -102,6 +102,13 @@
 
 ### 🚀 **Let’s Connect and Collaborate !**
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sourav-blue?logo=linkedin)](https://www.linkedin.com/in/sourav-sourav-585b69208/)
+[![Explurger](https://explurger.com/pf/wp5b056spdb9lbjmg)
+[![Braintrust](https://img.shields.io/badge/Braintrust-Profile-orange?logo=braintrust)](https://app.usebraintrust.com/talent/1606360/)
+[![GitLab](https://img.shields.io/badge/GitLab-Ishansourav-orange?logo=gitlab)](https://gitlab.com/Ishansourav)
+[![Commudle](https://img.shields.io/badge/Commudle-Sourav74511-blueviolet?logo=commudle)](https://www.commudle.com/users/Sourav74511)
+[![Email](https://img.shields.io/badge/Email-ishan07o4511@outlook.com-red?logo=gmail)](mailto:ishan07o4511@outlook.com)
+
 I’m always excited to engage with like-minded professionals, explore innovative ideas, and collaborate on impactful projects.
 
 <h3 align="center">⭐️ If you find my repositories helpful, please consider starring them!</h3>
