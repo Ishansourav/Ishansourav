@@ -17,6 +17,9 @@
 	<a href="https://www.commudle.com/users/Sourav74511" target="_blank"><img src="https://img.shields.io/badge/Commudle-Sourav74511-%230D0D0D?style=for-the-badge&logo=commudle&logoColor=white" alt="Commudle Badge"/></a>&nbsp;
 	<a href="https://vision.hack2skill.com/dashboard/user_private_profile/about?userId=6715dbdd6b04b3b58f68d14d&isEdit=true&tabIndex=about&utm_source=h2shomepage&utm_medium=h2shomepage" target="_blank"><img src="https://img.shields.io/badge/Hack2Skill-%23F9A825?style=for-the-badge&logo=hackster&logoColor=white" alt="Hack2Skill Badge" /></a>&nbsp;
 	<a href="https://www.datacamp.com/portfolio/darkeyexcode" target="_blank"><img src="https://img.shields.io/badge/DataCamp-DarkeyExCode-%233D74E4?style=for-the-badge&logo=datacamp&logoColor=white" alt="DataCamp Badge" /></a>
+	<a href="https://app.usebraintrust.com/talent/1606360/" target="_blank">
+  <img src="https://img.shields.io/badge/Braintrust-1606360-%232E2E2E?style=for-the-badge&logo=brainly&logoColor=white" alt="Braintrust Badge"/>
+</a>&nbsp;
     <a href="https://team.atlassian.com/your-work?cloudId=82d49f09-eeb4-465d-9163-ac2a61b31af5" target="_blank"><img src="https://img.shields.io/badge/Atlassian-Profile-%230A66C2?style=for-the-badge&logo=atlassian&logoColor=white" alt="Atlassian Badge" /></a>
     <a href="https://bitbucket.org/" target="_blank"><img src="https://img.shields.io/badge/Bitbucket-Profile-%230A66C2?style=for-the-badge&logo=bitbucket&logoColor=white" alt="Bitbucket Badge" /></a>
     <a href="https://www.atlassian.com/software/jira" target="_blank"><img src="https://img.shields.io/badge/Jira-Dashboard-%230A66C2?style=for-the-badge&logo=jira&logoColor=white" alt="Jira Badge" /></a>
