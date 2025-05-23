@@ -6,11 +6,8 @@
 <br/>
 <div align="center">
 	I'm Sourav, a Freelance Developer with a passion for Front-End Development, AI/ML, and Python Programming. I love exploring innovative projects and open-source contributions.🚀 Let's code the future together !
- <br>Feel free to reach out to me 
 </div>
-
 <br>
-
 <p align="center">
 	<a href="https://www.orcid.org/0009-0003-4700-6581" target="_blank"><img src="https://img.shields.io/badge/ORCID-0009--0003--4700--6581-%230076D6?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID Badge"/></a>&nbsp;
 	<a href="https://www.linkedin.com/in/sourav-sourav-585b69208" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Sourav_Ishan-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>&nbsp;
@@ -20,9 +17,44 @@
 	<a href="https://app.usebraintrust.com/talent/1606360/" target="_blank">
   <img src="https://img.shields.io/badge/Braintrust-1606360-%232E2E2E?style=for-the-badge&logo=brainly&logoColor=white" alt="Braintrust Badge"/>
 </a>&nbsp;
-    <a href="https://team.atlassian.com/your-work?cloudId=82d49f09-eeb4-465d-9163-ac2a61b31af5" target="_blank"><img src="https://img.shields.io/badge/Atlassian-Profile-%230A66C2?style=for-the-badge&logo=atlassian&logoColor=white" alt="Atlassian Badge" /></a>
-    <a href="https://bitbucket.org/" target="_blank"><img src="https://img.shields.io/badge/Bitbucket-Profile-%230A66C2?style=for-the-badge&logo=bitbucket&logoColor=white" alt="Bitbucket Badge" /></a>
-    <a href="https://www.atlassian.com/software/jira" target="_blank"><img src="https://img.shields.io/badge/Jira-Dashboard-%230A66C2?style=for-the-badge&logo=jira&logoColor=white" alt="Jira Badge" /></a>
+    <a href="https://team.atlassian.com/your-work?cloudId=82d49f09-eeb4-465d-9163-ac2a61b31af5" target="_blank"><img src="https://img.shields.io/badge/Atlassian-Profile-%230A66C2?style=for-the-badge&logo=atlassian&logoColor=white" alt="Atlassian Badge"/></a>&nbsp;
+    <a href="https://bitbucket.org/" target="_blank"><img src="https://img.shields.io/badge/Bitbucket-Profile-%230A66C2?style=for-the-badge&logo=bitbucket&logoColor=white" alt="Bitbucket Badge" /></a>&nbsp;
+    <a href="https://www.atlassian.com/software/jira" target="_blank"><img src="https://img.shields.io/badge/Jira-Dashboard-%230A66C2?style=for-the-badge&logo=jira&logoColor=white" alt="Jira Badge" /></a>&nbsp;
+
+</p>
+
+---
+
+### ☁️ Google Cloud Skills Boost
+<p align="center">
+
+<a href="https://www.cloudskillsboost.google/public_profiles/b74772a4-d280-4fe8-8306-41706e582081/badges/15989862" target="_blank">
+  <img src="https://img.shields.io/badge/Google_Cloud_Badge-Vertex_AI-4285F4?style=for-the-badge" alt="Vertex AI Badge" />
+</a>
+
+<a href="https://www.cloudskillsboost.google/public_profiles/b74772a4-d280-4fe8-8306-41706e582081/badges/15989203" target="_blank">
+  <img src="https://img.shields.io/badge/Google_Cloud_Badge-Responsible_AI-F9AB00?style=for-the-badge" alt="Responsible AI Badge" />
+</a>
+
+<a href="https://www.cloudskillsboost.google/public_profiles/b74772a4-d280-4fe8-8306-41706e582081/badges/15968218" target="_blank">
+  <img src="https://img.shields.io/badge/Google_Cloud_Badge-Intro_to_Generative_AI-0F9D58?style=for-the-badge" alt="Intro to Generative AI Badge" />
+</a>
+</p>
+
+---
+
+### 🎖️ Participations & Programs
+<p align="center">
+<a href="https://vision.hack2skill.com/event/aibuilderslab-2024/?utm_source=hack2skill&utm_medium=homepage" target="_blank"><img src="https://img.shields.io/badge/Google_Cloud-AI_Builders_Lab-blue?style=for-the-badge&logo=googlecloud&logoColor=white" alt="AI Builders Lab Badge"/>
+</a>
+<a href="https://vision.hack2skill.com/event/intelaihackathon?utm_source=hack2skill&utm_medium=homepage" target="_blank"><img src="https://img.shields.io/badge/Intel-Intel_AI_Hackathon-lightgrey?style=for-the-badge&logo=intel&logoColor=blue" alt="Intel AI Hackathon Badge"/>
+</a>
+<a href="https://vision.hack2skill.com/event/agenticaiglobalbootcamp?utm_source=hack2skill&utm_medium=homepage" target="_blank"><img src="https://img.shields.io/badge/UiPath-Agentic_Global_Bootcamp-green?style=for-the-badge&logo=uipath&logoColor=white" alt="Agentic Global Bootcamp Badge"/>
+</a>
+<a href="https://vision.hack2skill.com/event/genaiexchange?utm_source=hack2skill&utm_medium=homepage" target="_blank"><img src="https://img.shields.io/badge/Gen_AI-Exchange_Program-orange?style=for-the-badge" alt="Gen AI Exchange Program Badge"/>
+</a>
+<a href="https://vision.hack2skill.com/event/codeveda/?utm_source=hack2skill&utm_medium=homepage" target="_blank"><img src="https://img.shields.io/badge/Hack2Skill-CodeVeda_Participant-800080?style=for-the-badge&logo=hackster&logoColor=white" alt="CodeVeda Hack2Skill Badge"/>
+</a>
 
 </p>
 
@@ -99,9 +131,6 @@
         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishansourav&bg_color=000325&text_color=ffffff&title_color=gold&border_color=ffd2ce&icon_color=e4626b&layout=compact&langs_count=8" />
     </a>
 </p>
-
-
----
 
 ### 🚀 **Let’s Connect and Collaborate !**
 
