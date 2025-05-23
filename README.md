@@ -4,9 +4,12 @@
 	</a>
 </div>
 <br/>
-<div align="center">
-	I'm Sourav, a Freelance Developer with a passion for Front-End Development, AI/ML, and Python Programming. I love exploring innovative projects and open-source contributions.🚀 Let's code the future together !
-</div>
+<h1 align="center">Hi there 👋, I'm Sourav Ishan</h1>
+<h3 align="center">AI/ML Researcher | Full-Stack Developer | Cybersecurity Enthusiast | Tech Innovator ⚡</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1000&color=00F0FF&center=true&width=800&height=45&lines=AI+%7C+ML+%7C+DL+Researcher+%7C+Open-Source+Contributor;Full-Stack+Explorer+%7C+React%2C+Next.js%2C+Rust+%7C+Python+Dev;Cybersecurity+%7C+Cloud+%7C+Linux+Power+User;Crafting+Future-Driven+Tech+%F0%9F%9A%80;Always+Ready+to+Collaborate+%7C+Let's+Build!" alt="Typing SVG" />
+</p>
+
 <br>
 <p align="center">
 	<a href="https://www.orcid.org/0009-0003-4700-6581" target="_blank"><img src="https://img.shields.io/badge/ORCID-0009--0003--4700--6581-%230076D6?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID Badge"/></a>&nbsp;
@@ -117,8 +120,8 @@
 - **[simple-assessment-flask](https://github.com/Ishansourav/simple-assessment-flask)**  
   A lightweight Flask-based web app that enables users to upload CSV or JSON files, process the data using Pandas, and generate a short report with computed Alpha, Beta, and Charlie values. **License**: GNU AGPL v3.0
 
-- **[Java Programs](https://github.com/Ishansourav/Java-Programs)**  
-  A set of practical Java applications designed to highlight coding efficiency and performance. **License**: GNU GPL v3.0
+- **[Navie-RAG-System](https://github.com/)**  
+  Under Developement......
 
 ---
 
