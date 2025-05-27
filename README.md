@@ -27,25 +27,25 @@
 </p>
 
 ---
-
-### ☁️ Google Cloud Skills Boost
+☁️ Google Cloud Skills Boost  
 <p align="center">
 
 <a href="https://www.cloudskillsboost.google/public_profiles/b74772a4-d280-4fe8-8306-41706e582081/badges/15989862" target="_blank">
-  <img src="https://img.shields.io/badge/Google_Cloud_Badge-Vertex_AI-4285F4?style=for-the-badge" alt="Vertex AI Badge" />
-</a>
-
-<a href="https://www.cloudskillsboost.google/public_profiles/b74772a4-d280-4fe8-8306-41706e582081/badges/15989203" target="_blank">
-  <img src="https://img.shields.io/badge/Google_Cloud_Badge-Responsible_AI-F9AB00?style=for-the-badge" alt="Responsible AI Badge" />
+  <img src="https://img.shields.io/badge/Google_Cloud_Badge-Introduction_to_Responsible_AI-F9AB00?style=for-the-badge" alt="Introduction to Responsible AI Badge" />
 </a>
 
 <a href="https://www.cloudskillsboost.google/public_profiles/b74772a4-d280-4fe8-8306-41706e582081/badges/15968218" target="_blank">
-  <img src="https://img.shields.io/badge/Google_Cloud_Badge-Intro_to_Generative_AI-0F9D58?style=for-the-badge" alt="Intro to Generative AI Badge" />
+  <img src="https://img.shields.io/badge/Google_Cloud_Badge-Introduction_to_Generative_AI-0F9D58?style=for-the-badge" alt="Introduction to Generative AI Badge" />
 </a>
+
+<a href="https://www.cloudskillsboost.google/public_profiles/b74772a4-d280-4fe8-8306-41706e582081/badges/15989203" target="_blank">
+  <img src="https://img.shields.io/badge/Google_Cloud_Badge-Introduction_to_LLMs-4285F4?style=for-the-badge" alt="Introduction to Large Language Models Badge" />
+</a>
+
 </p>
 
----
 
+---
 ### 🎖️ Participations & Programs
 <p align="center">
 <a href="https://vision.hack2skill.com/event/aibuilderslab-2024/?utm_source=hack2skill&utm_medium=homepage" target="_blank"><img src="https://img.shields.io/badge/Google_Cloud-AI_Builders_Lab-blue?style=for-the-badge&logo=googlecloud&logoColor=white" alt="AI Builders Lab Badge"/>
