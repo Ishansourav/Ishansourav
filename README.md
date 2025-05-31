@@ -11,19 +11,47 @@
 </p>
 
 <br>
-<p align="center">
-	<a href="https://www.orcid.org/0009-0003-4700-6581" target="_blank"><img src="https://img.shields.io/badge/ORCID-0009--0003--4700--6581-%230076D6?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID Badge"/></a>&nbsp;
-	<a href="https://www.linkedin.com/in/sourav-sourav-585b69208" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Sourav_Ishan-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>&nbsp;
-	<a href="https://www.commudle.com/users/Sourav74511" target="_blank"><img src="https://img.shields.io/badge/Commudle-Sourav74511-%230D0D0D?style=for-the-badge&logo=commudle&logoColor=white" alt="Commudle Badge"/></a>&nbsp;
-	<a href="https://vision.hack2skill.com/dashboard/user_private_profile/about?userId=6715dbdd6b04b3b58f68d14d&isEdit=true&tabIndex=about&utm_source=h2shomepage&utm_medium=h2shomepage" target="_blank"><img src="https://img.shields.io/badge/Hack2Skill-%23F9A825?style=for-the-badge&logo=hackster&logoColor=white" alt="Hack2Skill Badge" /></a>&nbsp;
-	<a href="https://www.datacamp.com/portfolio/darkeyexcode" target="_blank"><img src="https://img.shields.io/badge/DataCamp-DarkeyExCode-%233D74E4?style=for-the-badge&logo=datacamp&logoColor=white" alt="DataCamp Badge" /></a>
-	<a href="https://app.usebraintrust.com/talent/1606360/" target="_blank">
-  <img src="https://img.shields.io/badge/Braintrust-1606360-%232E2E2E?style=for-the-badge&logo=brainly&logoColor=white" alt="Braintrust Badge"/>
-</a>&nbsp;
-    <a href="https://team.atlassian.com/your-work?cloudId=82d49f09-eeb4-465d-9163-ac2a61b31af5" target="_blank"><img src="https://img.shields.io/badge/Atlassian-Profile-%230A66C2?style=for-the-badge&logo=atlassian&logoColor=white" alt="Atlassian Badge"/></a>&nbsp;
-    <a href="https://bitbucket.org/" target="_blank"><img src="https://img.shields.io/badge/Bitbucket-Profile-%230A66C2?style=for-the-badge&logo=bitbucket&logoColor=white" alt="Bitbucket Badge" /></a>&nbsp;
-    <a href="https://www.atlassian.com/software/jira" target="_blank"><img src="https://img.shields.io/badge/Jira-Dashboard-%230A66C2?style=for-the-badge&logo=jira&logoColor=white" alt="Jira Badge" /></a>&nbsp;
 
+<p align="center">
+  <a href="https://www.orcid.org/0009-0003-4700-6581" target="_blank">
+    <img src="https://img.shields.io/badge/ORCID-0009--0003--4700--6581-228B22?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID Badge"/>
+  </a>&nbsp;
+
+  <a href="https://www.linkedin.com/in/sourav-sourav-585b69208" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Sourav_Ishan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>&nbsp;
+
+  <a href="https://www.commudle.com/users/Sourav74511" target="_blank">
+    <img src="https://img.shields.io/badge/Commudle-Sourav74511-FF8C00?style=for-the-badge&logo=commudle&logoColor=white" alt="Commudle Badge"/>
+  </a>&nbsp;
+
+  <a href="https://vision.hack2skill.com/dashboard/user_private_profile/about?userId=6715dbdd6b04b3b58f68d14d&isEdit=true&tabIndex=about&utm_source=h2shomepage&utm_medium=h2shomepage" target="_blank">
+    <img src="https://img.shields.io/badge/Hack2Skill-Profile-DAA520?style=for-the-badge&logo=hackster&logoColor=white" alt="Hack2Skill Badge"/>
+  </a>&nbsp;
+
+  <a href="https://www.datacamp.com/portfolio/darkeyexcode" target="_blank">
+    <img src="https://img.shields.io/badge/DataCamp-DarkeyExCode-4169E1?style=for-the-badge&logo=datacamp&logoColor=white" alt="DataCamp Badge"/>
+  </a>&nbsp;
+
+  <a href="https://app.usebraintrust.com/talent/1606360/" target="_blank">
+    <img src="https://img.shields.io/badge/Braintrust-1606360-6A5ACD?style=for-the-badge&logo=brainly&logoColor=white" alt="Braintrust Badge"/>
+  </a>&nbsp;
+
+  <a href="https://team.atlassian.com/your-work?cloudId=82d49f09-eeb4-465d-9163-ac2a61b31af5" target="_blank">
+    <img src="https://img.shields.io/badge/Atlassian-Profile-20B2AA?style=for-the-badge&logo=atlassian&logoColor=white" alt="Atlassian Badge"/>
+  </a>&nbsp;
+
+  <a href="https://bitbucket.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Bitbucket-Profile-CD5C5C?style=for-the-badge&logo=bitbucket&logoColor=white" alt="Bitbucket Badge"/>
+  </a>&nbsp;
+
+  <a href="https://www.atlassian.com/software/jira" target="_blank">
+    <img src="https://img.shields.io/badge/Jira-Dashboard-FF4500?style=for-the-badge&logo=jira&logoColor=white" alt="Jira Badge"/>
+  </a>&nbsp;
+
+  <a href="https://app.readytensor.ai/users/darkhavenforge" target="_blank">
+    <img src="https://img.shields.io/badge/ReadyTensor-DarkhavenForge-8A2BE2?style=for-the-badge&logo=read&logoColor=white" alt="ReadyTensor Badge"/>
+  </a>
 </p>
 
 ---
@@ -44,6 +72,14 @@
 
 </p>
 
+---
+
+### 🎖️ ReadyTenso Publication
+
+<a href="https://app.readytensor.ai/users/darkhavenforge" target="_blank" style="text-decoration:none; display:inline-flex; align-items:center; gap:12px; background:#A97142; color:white; font-weight:600; font-family:sans-serif; padding:6px 12px; border-radius:12px;">
+  <img src="https://raw.githubusercontent.com/Ishansourav/Ishansourav/main/images/publisher.png" alt="ReadyTensor Badge" style="height:65px; border-radius:8px; vertical-align:middle;"/>
+  <img src="https://raw.githubusercontent.com/Ishansourav/Ishansourav/main/images/bronze_publisher.png" alt="ReadyTensor Bronze Badge" style="height:65px; border-radius:8px; vertical-align:middle;"/>
+</a>
 
 ---
 ### 🎖️ Participations & Programs
@@ -144,6 +180,7 @@
 [![Email](https://img.shields.io/badge/Email-ishan07o4511@outlook.com-red?logo=gmail)](mailto:ishan07o4511@outlook.com)
 
 I’m always excited to engage with like-minded professionals, explore innovative ideas, and collaborate on impactful projects.
+
 
 <h3 align="center">⭐️ If you find my repositories helpful, please consider starring them!</h3>
 
