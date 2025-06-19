@@ -94,6 +94,9 @@
 </a>
 <a href="https://vision.hack2skill.com/event/codeveda/?utm_source=hack2skill&utm_medium=homepage" target="_blank"><img src="https://img.shields.io/badge/Hack2Skill-CodeVeda_Participant-800080?style=for-the-badge&logo=hackster&logoColor=white" alt="CodeVeda Hack2Skill Badge"/>
 </a>
+ <a href="https://github.com/Ishansourav/Sourav-GitHubCampusExperience" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub_Education-Global_Campus-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Education Badge"/>
+  </a>
 
 </p>
 
